@@ -157,7 +157,7 @@ services:
 #    ports:
 #      - 5432:5432
 #    environment:
-#      POSTGRES_PASSWORD: 'djdf2000'
+#      POSTGRES_PASSWORD: '1234'
 #    volumes:
 #      - database_data:/var/lib/postgresql/data
 
